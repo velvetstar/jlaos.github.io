@@ -80,6 +80,11 @@ img {
   height: auto;
 }
 
+.me {
+  width: 150px;
+  height: 150px;
+}
+
 #projects, #contact {
   min-height: 100vh;
   display: flex;
